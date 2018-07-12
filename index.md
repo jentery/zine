@@ -23,14 +23,17 @@ Look at some zines (circulate them and discuss) (25 minutes)
 
 * Have you ever heard of zines? 
 * Different kinds of zines: What styles do you see? Personal? Illustration? Typed? Topics? 
-* Components of zines: paper, folds, binding, marks, visuals, writing, audience 
-* By whom are they written? For whom? 
+* Components of zines: paper, folds, binding, marks, visuals, arrangements
+* By whom are they written? For whom?
+* What make a layout interesting? 
 
 Recap (5 minutes) 
 
 ## Why a Zine Today about Technology Today? (10 minutes) 
 
 What can zines tell us about technology? How do they circulate? In what settings? Why might you make a zine about technology? Doesn't it seem odd and even ironic to use zines for such purposes? 
+
+Provide examples of a few zines about technology and culture.  
 
 ## Break (10 minutes) 
 
@@ -49,7 +52,8 @@ Review and discuss prompt (15 minutes)
 * Consider how you will share knowledge with someone else: lists, comics, examples, collage, perspective, humour, style 
 * Also consider some key topics: privacy, screen time, fun, (dis)connection, networks, FOMO . . . 
 * Also consider your approach: how do you teach people important things about technology?
+* Imagine making a series of these. Give your zine a title and a cover. How would you circulate it? 
 
 Zine-making (35 minutes) 
 
-Discussion and wrapup (15 minutes): what did you learn?
+Discussion and wrapup (15 minutes): What did you learn? Where do we go from here? 
