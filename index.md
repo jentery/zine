@@ -23,7 +23,7 @@ Look at some zines (circulate them and discuss) (25 minutes)
 * Different kinds of zines: What styles do you see? Personal? Illustration? Typed? Topics? 
 * Components of zines: paper, folds, binding, marks, visuals, arrangements
 * By whom are they written? For whom?
-* What make a layout interesting? 
+* What makes a layout interesting? 
 
 Recap (5 minutes) 
 
